@@ -1,0 +1,15 @@
+wheel
+psycopg2
+coreschema
+openapi-codec
+
+Django<4
+django-cors-headers
+django-filter
+django-rest-swagger
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+dynaconf
+psycopg2
+gunicorn

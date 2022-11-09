@@ -1,0 +1,5 @@
+numpy
+lungmask
+nibabel
+miscnn
+dicom2nifti
